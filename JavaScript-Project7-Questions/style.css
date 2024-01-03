@@ -1,0 +1,43 @@
+.question-text{
+  display: none;
+}
+
+.show-text .question-text{
+  display: block;
+}
+
+.minus-icon{
+  display: none;
+}
+
+.show-text .minus-icon{
+  display: inline-block;
+}
+
+.show-text .plus-icon{
+  display: none;
+}
+
+.title{
+  font-size: 1.6rem;
+  text-align: center;
+  line-height: 10vh;
+  background-color: rgb(95, 183, 32);
+  border-radius: 30px;
+  color: rgb(0, 0, 0);
+  
+}
+
+.question-title{
+  font-size: 1.4rem;
+  text-align: center;
+  line-height: 5vh;
+  background-color: rgb(44, 105, 0);
+  border-radius: 30px;
+  color: rgb(0, 0, 0);
+  color: aliceblue;
+}
+
+button{
+  border-radius: 20px;
+}
